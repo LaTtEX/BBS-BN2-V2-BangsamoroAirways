@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/aircraft.cfg",
+      "size": 2007,
+      "date": 133590309629408564
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/MODEL.FLITELINE/model.CFG",
+      "size": 784,
+      "date": 133064296100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/BBS_BN2-EX1_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133590298393695306
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/BBS_BN2-EX1_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 132652958000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/BBS_BN2-WING_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133590283902004602
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/BBS_BN2-WING_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 132652958120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/texture.CFG",
+      "size": 72,
+      "date": 133064287940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/thumbnail.jpg",
+      "size": 260700,
+      "date": 133590314310537872
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Bangsamoro/TEXTURE.FLITELINE/thumbnail_small.JPG",
+      "size": 260700,
+      "date": 133590314374353858
+    }
+  ]
+}
